@@ -1,2 +1,0 @@
-# Mexin
-My HTML Project.
